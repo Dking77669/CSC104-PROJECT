@@ -1,0 +1,139 @@
+p{
+ font-family: Arial;
+
+}
+
+.header-div{
+   display: flex;
+   justify-content: space-between;
+}
+
+.return-button{
+    width: 60px;
+    height: 45px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.cart-text{
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.shopping-cart{
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.first-container{
+   display: flex;
+   justify-content: space-between;
+}
+
+.shoe-pic{
+  width: 200px;
+  height: 150px;
+  margin-left: 20px;
+}
+
+.shoe-name{
+   display: inline-block;
+   vertical-align: middle;
+}
+
+.shoe-price{
+    display: inline-block;
+    font-weight: bold;
+}
+
+.second-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sweater-pic{
+    margin-left: 20px;
+}
+
+.sweater-description{
+   display: inline-block;
+   margin-top: 50px;
+}
+
+.sweater-price{
+    display: inline-block;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.third-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.miniso-image{
+    margin-left: 20px;
+}
+
+.product-name{
+   display: inline-block;
+   margin-top: 50px;
+}
+
+.product-price{
+    display: inline-block;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.footer-div{
+    background-color: rgb(199, 194, 194);
+    height: 250px;
+}
+
+.shipping-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.shipping-details{
+    margin-left: 20px;
+}
+
+.shipping-price{
+
+}
+
+.sub-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sub-text{
+    margin-left: 20px;
+}
+
+.total-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.total-text{
+    margin-left: 20px;
+}
+
+.checkout-button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 200px;
+    background-color: rgb(102, 100, 100);
+    color: white;
+    border: none;
+    margin-left: 620px;
+    font-size: 25px;
+}
